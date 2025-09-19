@@ -1,5 +1,5 @@
    ```
    # Autores
    
-   - Tu Nombre (@AdrielApX)
+   - Tu Nombre (AdrielApX)
    ```
