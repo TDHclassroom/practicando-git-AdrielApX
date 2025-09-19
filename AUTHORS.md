@@ -1,5 +1,0 @@
-   ```
-   # Autores
-   
-   - Tu Nombre (AdrielApX)
-   ```
